@@ -1,3 +1,16 @@
+# SVN
+.svn/
+get_svnrev.sh
+README.source
+make_release.sh
+
+# Eclipse
+.project
+.cproject
+
+# Project build
+build/
+
 # Compiled Object files
 *.slo
 *.lo
